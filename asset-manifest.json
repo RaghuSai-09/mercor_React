@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mercor_react.github.io/static/css/main.cde1878e.css",
+    "main.js": "/mercor_react.github.io/static/js/main.908d881a.js",
+    "static/js/787.b439e83c.chunk.js": "/mercor_react.github.io/static/js/787.b439e83c.chunk.js",
+    "static/media/img4.jpg": "/mercor_react.github.io/static/media/img4.d2bc746f4f8b777df46c.jpg",
+    "static/media/img.jpg": "/mercor_react.github.io/static/media/img.244ff4be7ad5b3f568ad.jpg",
+    "static/media/img2.jpg": "/mercor_react.github.io/static/media/img2.99d77679f48bbd6d26f3.jpg",
+    "static/media/star.png": "/mercor_react.github.io/static/media/star.3dc0c89d018c32e68817.png",
+    "index.html": "/mercor_react.github.io/index.html",
+    "main.cde1878e.css.map": "/mercor_react.github.io/static/css/main.cde1878e.css.map",
+    "main.908d881a.js.map": "/mercor_react.github.io/static/js/main.908d881a.js.map",
+    "787.b439e83c.chunk.js.map": "/mercor_react.github.io/static/js/787.b439e83c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde1878e.css",
+    "static/js/main.908d881a.js"
+  ]
+}
